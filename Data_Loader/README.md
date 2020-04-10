@@ -18,5 +18,5 @@ Run `history_data.py`to scrap all history trade data from A share, where you can
 `python Daily_Data.py`  
 `python history_data.py`
 # Note
-I have uploaded trade data of more than a hundred stocks from 2015/01/01 to 2020/03/24. If you just want to try some
+I have uploaded trade data of hundreds of stocks from 2015/01/01 to 2020/03/24. If you just want to try some
  simple tasks, I warmly suggest you to use these data :)
